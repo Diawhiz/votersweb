@@ -40,8 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'base.apps.BaseConfig'
     # 'froala_editor',
-    'compressor',
-    'widget_tweaks',
+    # 'compressor',
+    # 'widget_tweaks',
 ]
 
 MIDDLEWARE = [
